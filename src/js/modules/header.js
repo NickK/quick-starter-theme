@@ -1,6 +1,5 @@
 module.exports = {
 	init: function(self) {
-		console.log('nav');
 		this.bind();
 	},
 	bind: function() {
